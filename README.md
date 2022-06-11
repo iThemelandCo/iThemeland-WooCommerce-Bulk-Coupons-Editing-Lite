@@ -55,5 +55,5 @@ Check demo version: <a href="https://ithemelandco.com/plugins/woocommerce-bulk-c
 </ul>
 </p>
 
-Get More Information: <a href="https://ithemelandco.com/plugins/woocommerce-bulk-coupons-editing/?utm_source=wp.org&utm_medium=web_links&utm_campaign=user-lite-buy">WooCommerce Bulk Coupons Editing</a>
+Get More Information: <a href="https://ithemelandco.com/plugins/woocommerce-bulk-coupons-editing/?utm_source=github&utm_medium=web_links&utm_campaign=user-lite-buy">WooCommerce Bulk Coupons Editing</a>
 
